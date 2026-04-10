@@ -2,8 +2,10 @@
 
 ---
 
-![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/61aa8722583e939122067aa47c453391ba41da11/ZZZZZZZCOMPUTER.jpg)
-
+<p align="center">
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/61aa8722583e939122067aa47c453391ba41da11/ZZZZZZZCOMPUTER.jpg?raw=true"
+       style="width:100%; max-width:100%;" />
+</p>
 
 
 ---
