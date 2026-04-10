@@ -193,7 +193,6 @@ The purpose of this project is to demonstrate how to:
 - Gain experience designing **interactive applications**  
 
 
----
 
 ---
 
