@@ -1,4 +1,4 @@
-<h1 align="center">🖥️ JAVA GUI CALCULATOR – MATH OPERATIONS</h1>
+<h1 align="center">🖥️ 𝗝𝗔𝗩𝗔 𝗚𝗨𝗜 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥 – 𝗠𝗔𝗧𝗛 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦</h1>
 
 ---
 
