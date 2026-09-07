@@ -1,6 +1,10 @@
 <h1 align="center">🖥️ 𝗝𝗔𝗩𝗔 𝗚𝗨𝗜 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥 – 𝗠𝗔𝗧𝗛 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦</h1>
 
+
+
 <br>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/61aa8722583e939122067aa47c453391ba41da11/ZZZZZZZCOMPUTER.jpg?raw=true"
@@ -13,7 +17,8 @@
 
 
 
-
+<br>
+<br>
 <br>
 
 
